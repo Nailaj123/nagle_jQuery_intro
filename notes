@@ -1,0 +1,26 @@
+What is jQuery!?
+interacts with javascripts, utilize short hand 
+
+CDN- conent delivery network/basically url
+
+## selectors $()
+*ID- $('#)
+*class- $('.some-class');
+* Descendants- $('ul li');
+* Multiple elements- $('.mic', '.check').append('test')
+* Find elements - $('#solid').find('.rock');
+
+dom traversal
+
+*parent element - $('.child).parent()
+ * first level children - $('.parent).children()
+
+dom manipulation
+.addClass
+
+Getters and Setters
+.val();
+.text();
+.data();
+.html();
+.attributes();
