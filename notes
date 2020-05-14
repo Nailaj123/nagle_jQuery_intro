@@ -24,3 +24,5 @@ Getters and Setters
 .data();
 .html();
 .attributes();
+
+descendant selectors
