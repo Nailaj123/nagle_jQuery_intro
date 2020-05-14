@@ -26,3 +26,8 @@ Getters and Setters
 .attributes();
 
 descendant selectors
+(this) represents the target of the event
+examples:
+$(this).toggleClass('blue');
+    $(this).remove();
+    $(this).parent().addClass('blue');
